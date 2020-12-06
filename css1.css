@@ -1,0 +1,19 @@
+body {
+    color: white;
+     background-image:url(burgers.jpeg) ; 
+     background-size: cover ;
+}
+
+.hello{
+    color: white ;
+}
+
+
+.bon{
+    color: #FFBF00;
+
+}
+
+.kon{
+    color: blue;
+}
